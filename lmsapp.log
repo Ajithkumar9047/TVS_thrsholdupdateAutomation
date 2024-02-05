@@ -1,0 +1,33 @@
+2023-12-27 10:55:39,715 [INFO]: Threshold master: 4841
+2023-12-27 10:55:39,952 [INFO]: Threshold FEED: 216
+2023-12-27 10:55:40,154 [INFO]: Total null: 216
+2023-12-27 10:55:40,155 [ERROR]: thresholdMaster and thresholdfeed count is not equal
+2023-12-28 10:37:45,502 [INFO]: Threshold master: 4841
+2023-12-28 10:37:45,977 [INFO]: Threshold FEED: 234
+2023-12-28 10:37:46,548 [INFO]: Total null: 234
+2023-12-28 10:37:46,548 [ERROR]: thresholdMaster and thresholdfeed count is not equal
+2023-12-28 11:20:03,607 [INFO]: Threshold master: 4841
+2023-12-28 11:20:04,794 [INFO]: Threshold FEED: 4841
+2023-12-28 11:20:05,320 [INFO]: Total null: 277
+2023-12-28 11:20:05,320 [ERROR]: An error occurred: update_query() missing 1 required positional argument: 'query4'
+2023-12-28 11:47:32,057 [INFO]: Threshold master: 4841
+2023-12-28 11:47:33,448 [INFO]: Threshold FEED: 4841
+2023-12-28 11:47:34,533 [INFO]: Total null: 277
+2023-12-28 11:47:34,533 [ERROR]: An error occurred: update_query() missing 1 required positional argument: 'query4'
+2023-12-28 11:50:34,309 [INFO]: Threshold master: 4841
+2023-12-28 11:50:36,207 [INFO]: Threshold FEED: 4841
+2023-12-28 11:50:36,589 [INFO]: Total null: 277
+2023-12-28 11:50:36,589 [ERROR]: An error occurred: update_query() missing 1 required positional argument: 'query4'
+2023-12-28 11:52:36,433 [INFO]: Threshold master: 4841
+2023-12-28 11:52:37,738 [INFO]: Threshold FEED: 4841
+2023-12-28 11:52:38,104 [INFO]: Total null: 277
+2023-12-28 11:52:38,105 [ERROR]: An error occurred: update_query() missing 1 required positional argument: 'query4'
+2023-12-28 11:57:12,481 [INFO]: Threshold master: 4841
+2023-12-28 11:57:15,455 [INFO]: Threshold FEED: 4841
+2023-12-28 11:57:15,994 [INFO]: Total null: 277
+2023-12-28 11:57:15,995 [ERROR]: An error occurred: update_query() missing 1 required positional argument: 'query4'
+2023-12-28 11:58:57,564 [INFO]: Threshold master: 4841
+2023-12-28 11:59:01,518 [INFO]: Threshold FEED: 4841
+2023-12-28 11:59:02,115 [INFO]: Total null: 277
+2023-12-28 11:59:02,625 [INFO]: Number of rows updated: 277
+2023-12-28 11:59:10,854 [INFO]: Count Email sent successfully!
